@@ -1,0 +1,42 @@
+_repo: Out-of-the-Hurly-BurlyOr-Life-in-an-Odd-Corner_42190
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+  - agent_name: Schell, Frederic B.
+    alias: Schell, F. B. (Frederic B.)
+    gutenberg_agent_id: '25933'
+    url: http://www.gutenberg.org/2009/agents/25933
+covers:
+- cover_type: archival
+  image_path: 42190-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, Charles Heber
+    alias: Adeler, Max
+    birthdate: 1841
+    deathdate: 1915
+    gutenberg_agent_id: '4438'
+    url: http://www.gutenberg.org/2009/agents/4438
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Heber_Clark
+description: ''
+gutenberg_issued: '2013-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+title: Out of the Hurly-Burly; Or, Life in an Odd Corner
+url: http://www.gutenberg.org/ebooks/42190
